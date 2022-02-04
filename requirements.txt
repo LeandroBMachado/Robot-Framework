@@ -1,0 +1,9 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-requests
+robotframework-jsonlibrary
+robotframework-pabot
+robotframework-appiumlibrary
+requests
+datetime
+dateutils
